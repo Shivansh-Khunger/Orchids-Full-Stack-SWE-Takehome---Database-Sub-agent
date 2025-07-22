@@ -1,8 +1,6 @@
-# Grok CLI
+# Grok Code
 
 A conversational AI CLI tool powered by Grok with intelligent text editor capabilities and tool usage.
-
-<img width="980" height="435" alt="Screenshot 2025-07-21 at 13 35 41" src="https://github.com/user-attachments/assets/192402e3-30a8-47df-9fc8-a084c5696e78" />
 
 ## Features
 
@@ -11,19 +9,12 @@ A conversational AI CLI tool powered by Grok with intelligent text editor capabi
 - **⚡ Bash Integration**: Execute shell commands through natural conversation
 - **🔧 Automatic Tool Selection**: AI intelligently chooses the right tools for your requests
 - **💬 Interactive UI**: Beautiful terminal interface built with Ink
-- **🌍 Global Installation**: Install and use anywhere with `npm i -g @vibe-kit/grok-cli`
 
 ## Installation
 
 ### Prerequisites
 - Node.js 16+ 
 - Grok API key from X.AI
-
-### Global Installation (Recommended)
-```bash
-npm install -g @vibe-kit/grok-cli
-```
-
 ### Local Development
 ```bash
 git clone <repository>
